@@ -229,6 +229,16 @@
     <Content Include="Resources\TitleScreen\TaskBarClock.png" />
     <Content Include="Resources\TitleScreen\TimeHACK_Logo.png" />
     <Content Include="Resources\TitleScreen\TitleScreenBG.png" />
+    <None Include="Resources\windows95setupwowstartmenuicon.png" />
+    <None Include="Resources\windows95setupcomuservicestartmenuicon.png" />
+    <None Include="Resources\windows95atandtworldsignupstartmenuicon.png" />
+    <None Include="Resources\windows95aolandinternetfreetrial!startmenuicon.png" />
+    <None Include="Resources\windows95phonedialerstartmenuicon.png" />
+    <None Include="Resources\windows95onlineregistrationstartmenuicon.png" />
+    <None Include="Resources\windows95imagingstartmenuicon.png" />
+    <None Include="Resources\windows2000hyperterminalstartmenuicon.png" />
+    <None Include="Resources\windows95addressbookactionblackandwhiteicon.png" />
+    <None Include="Resources\windows95dosstartmenuicon.png" />
     <None Include="Resources\LeviWindows.ttf" />
     <Content Include="Resources\WinClassic\16Color.png" />
     <Content Include="Resources\WinClassic\256Color.png" />

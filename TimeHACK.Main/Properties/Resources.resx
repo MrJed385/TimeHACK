@@ -274,4 +274,34 @@
   <data name="AIMfile" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\WinClassic\AIMfile.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="WinClassicAddressBook" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\windows95addressbookactionblackandwhiteicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WinClassicAOL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\windows95aolandinternetfreetrial!startmenuicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WinClassicATT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\windows95atandtworldsignupstartmenuicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WinClassicCompuServe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\windows95setupcomuservicestartmenuicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WinClassicHyperTerm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\windows2000hyperterminalstartmenuicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WinClassicImaging" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\windows95imagingstartmenuicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WinClassicMSDOS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\windows95dosstartmenuicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WinClassicOnlineReg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\windows95onlineregistrationstartmenuicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WinClassicPhoneDial" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\windows95phonedialerstartmenuicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WinClassicWOWCompu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\windows95setupwowstartmenuicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
